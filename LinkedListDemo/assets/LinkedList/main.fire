@@ -355,7 +355,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 240,
+      "width": 320,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -407,8 +407,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "链表演示项目",
-    "_N$string": "链表演示项目",
+    "_string": "单向链表演示项目",
+    "_N$string": "单向链表演示项目",
     "_fontSize": 40,
     "_lineHeight": 40,
     "_enableWrapText": true,
