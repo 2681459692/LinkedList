@@ -222,7 +222,7 @@ export class LinkedList<T> {
 
     /**获取链表尾部元素 */
     public getTailElement(): T {
-        let currentNode: LinkedNode<T> = this.head;
+        let currentNode = this.head;
         while (currentNode.next) {
             currentNode = currentNode.next;
         }
